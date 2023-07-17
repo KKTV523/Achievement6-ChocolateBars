@@ -8,3 +8,14 @@ Data Profile:
 Tools used: Python, Jupyter Notebook, Anaconda, Tableau.
 Challenge: Selecting an unknown Dataset and understanding. Analysing and visualization of the dataset. 
 Limitation and ethics: Open database and The data contains no personal Information or indiscrimnates variable
+
+The Data Contains: 
+Flavors of Cacao Rating System:
+4.0 - 5.0 = Outstanding
+3.5 - 3.9 = Highly Recommended
+3.0 - 3.49 = Recommended
+2.0 - 2.9 = Disappointing
+1.0 - 1.9 = Unpleasant
+
+Note to theingredients column:
+B (Beans), S (Sugar), S* (Sweetener other than sugar or beet sugar), C (Cocoa Butter), (V) Vanilla, (L) Lecithin, Sa (Salt)
