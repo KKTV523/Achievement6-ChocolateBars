@@ -19,3 +19,5 @@ Flavors of Cacao Rating System:
 
 Note to theingredients column:
 B (Beans), S (Sugar), S* (Sweetener other than sugar or beet sugar), C (Cocoa Butter), (V) Vanilla, (L) Lecithin, Sa (Salt)
+
+Tableau Link: https://public.tableau.com/app/profile/kripa.krishnan.thekke.veettil/viz/Achievement6_Task6_7/Story1#1 
